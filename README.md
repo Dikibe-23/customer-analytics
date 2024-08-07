@@ -1,9 +1,8 @@
 # E-COMMERCE CUSTOMER ANALYTICS
 ## About this project
-- This client would like to analyze its customer base to understand customer contribution to its total revenue.
-- They would also like to know how customers have patronized the business within the last year as they look to improve the marketing strategy.
+An online business wants to improve its marketing strategy and would like to know how to tailor its strategy to specific customers to improve sales and customer retention.
 
-In this customer analytics project, we will be carrying out some analysis on the business data in order to study customer behaviour and deduce certain characteristics 
+In this customer analytics project, we will be carrying out analysis on the business data in order to study customer behaviour and deduce certain characteristics 
 that will help the business make targeted solutions to some of its business problems.
 
 ## METHOD
