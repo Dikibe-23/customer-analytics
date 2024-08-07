@@ -48,8 +48,13 @@ Here, we are trying to find how when last a customer patronized the business, ho
 - We were able identify the most active customers and customers who perhaps have left the business.
 - We also identified customer's monetary contribution to the total revenue of this business.
 
-## CHALLENGES 
-The main challenge we faced, was understanding the customer base and how the customer base evolves.
+## CHALLENGES & SOLUTIONS
+The main challenge we faced, was understanding the customer base and how the customer base evolves. This challenge was mitigated by continuous analysis of the customer data overtime to adjust my strategy.
 
-## SOLUTION
-Continuous analysis of the customer data overtime to adjust my strategy.
+## REFERENCES
+- Jalaj Thanaki, Samir Bhatia(2018) <i>'Machine Learning Solutions: Expert techniques to tackle complex machine learning problems using python.'</i>, India, Python-Packt Publishing.
+- Vivian S., Rismon H.S.(2022)<i>'Online Retail Clustering and Prediction using Machine Learning'</i> North Sumatera, Balige Publishing Ltd.
+- [Customer Segmentation in Python: A Practical Approach - KDnuggets] (https://www.kdnuggets.com/customer-segmentation-in-python-a-practical-approach)
+
+
+
