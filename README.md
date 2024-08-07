@@ -7,8 +7,7 @@ In this customer analytics project, we will be carrying out some analysis on the
 that will help the business make targeted solutions to some of its business problems.
 
 ## METHOD
-We will utilize the power of segmentation to divide customers into subgroups based on their behavior and other types of shared characteristics. The result of this
-analysis can be used for predictive modelling for instance, to predict customers who are likely to leave a business, or default in loan repayment etc.
+We will utilize the power of segmentation to divide customers into subgroups based on their behavior and other types of shared characteristics. 
 
 ## BENEFITS OF THIS PROJECT
 To mention a few ;
@@ -53,7 +52,7 @@ The main challenge we faced, was understanding the customer base and how the cus
 
 ## REFERENCES
 - Jalaj Thanaki, Samir Bhatia(2018) <i>'Machine Learning Solutions: Expert techniques to tackle complex machine learning problems using python.'</i>, India, Python-Packt Publishing.
-- Vivian S., Rismon H.S.(2022)<i>'Online Retail Clustering and Prediction using Machine Learning'</i> North Sumatera, Balige Publishing Ltd.
+- Vivian S., Rismon H.S.(2022)<i>'Online Retail Clustering and Prediction using Machine Learning.'</i>, North Sumatera, Balige Publishing Ltd.
 - [Customer Segmentation in Python: A Practical Approach - KDnuggets] (https://www.kdnuggets.com/customer-segmentation-in-python-a-practical-approach)
 
 
