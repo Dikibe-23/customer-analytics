@@ -6,6 +6,7 @@ In this customer analytics project, we will be carrying out analysis on the busi
 that will help the business make targeted solutions to some of its business problems.
 
 #### Customer segmentation plot.
+![customer_segmentation](https://github.com/user-attachments/assets/5058e2ae-113a-4569-8e4f-06e61acae90a)
 
 
 
