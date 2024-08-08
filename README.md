@@ -5,6 +5,10 @@ An online business wants to improve its marketing strategy and would like to kno
 In this customer analytics project, we will be carrying out analysis on the business data in order to study customer behaviour and deduce certain characteristics 
 that will help the business make targeted solutions to some of its business problems.
 
+#### Customer segmentation plot.
+
+
+
 ## METHOD
 We will utilize the power of segmentation to divide customers into subgroups based on their behavior and other types of shared characteristics. 
 
